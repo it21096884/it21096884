@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Software+Engineering+Graduate,;Sri+Lanka+Institute+of+Information+Technology+(SLIIT),;Active+and+Passionate+Learner,;DevOps+Enthusiast..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Software+Engineering+Graduate,;SLIIT,;Active+and+Passionate+Learner,;DevOps+Enthusiast...">
   </a>
 </p>
 
@@ -59,6 +59,60 @@
   </a>
 </p>
 
+
+
+<!-- Front-End Development -->
+<h3 align="center">Front-End Development</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>
+  </a>
+  
+</p>
+
+<!-- Back-End Development -->
+<h3 align="center">Back-End Development</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/>
+  </a>
+  <a href="https://www.springboot.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<h3 align="center">Databases</h3>
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Machine Learning Development -->
+<h3 align="center">Machine Learning Development</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TensorFlow-Light.svg?short_path=71f339b" alt="css3" width="50" height="50"/>
+  </a>
+
+</p>
+
 <!-- Tools -->
 <h3 align="center">Tools</h3>
 <p align="center">
@@ -68,14 +122,23 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/>
   </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>
+  </a>
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
-<a href="https://www.linkedin.com/in/dinidu-lochana-0a7b07241" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin: Dinidu Lochana -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Dinidu Lochana" title="LinkedIn Profile of Dinidu Lochana" style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/oshadi-senevirathna-91b182244/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin: Oshadi Senevirathna -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Oshadi Senevirathna" title="LinkedIn Profile of Oshadi Senevirathna" style="margin-bottom: 5px;"/>
 </a>
 
 <br>
